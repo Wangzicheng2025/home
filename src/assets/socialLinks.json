@@ -3,7 +3,7 @@
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+    "url": "https://github.com/Wangzicheng2025"
   },
   {
     "name": "BiliBili",
@@ -34,5 +34,12 @@
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
     "url": "https://t.me/bottom_user"
+  },
+  {
+    "name": "WeChat",
+    "icon": "/images/icon/wechat.png",
+    "tip": "扫一扫，微信加好友 ~",
+    "url": "https://res.abeim.cn/api/wechat/?wechat=imsyy"
   }
+
 ]
